@@ -309,3 +309,18 @@ Key packages from `requirements.txt`:
 - `azure-identity` - Azure authentication (AzureCliCredential)
 - `azure-search-documents` - Azure AI Search integration
 - `mcp[cli]` - Model Context Protocol support
+
+---
+
+## Personal Learning Context (forked by Ironkid-lzy)
+
+> This is a **personal fork** used as a learning workspace. The owner is actively
+> studying AI Agents (not contributing upstream). When helping the owner:
+> 1. **Read `my-notes/AGENTS.md` first** — it contains the owner's learning goals,
+>    the "three-pass" study workflow, cognitive correction rules, and note style.
+>    Follow those instructions for any learning/note/experiment task.
+> 2. Treat all upstream lesson directories (`00-*` ~ `18-*`) as **read-only
+>    reference** — do not modify code samples there. Put any notes or modified
+>    experiment copies under `my-notes/`.
+> 3. The content above this line is the upstream course documentation; keep it
+>    intact for clean upstream merges.
